@@ -4391,7 +4391,7 @@ h1.page-title + .tag-cloud-list {
   padding-right: 4px;
 }
 #waline-wrap textarea {
-  background: url("/img/achivebg.jpg") 100% 100% no-repeat;
+  background: url("/img/ctbg.jpg") 100% 100% no-repeat;
 }
 #waline-wrap textarea:focus {
   background-image: none;
