@@ -12,8 +12,8 @@
   <entry>
     <title>testblog</title>
     <url>/2024/09/17/test/</url>
-    <content><![CDATA[<h2 id="this-is-a-test-blog"><a href="#this-is-a-test-blog" class="headerlink" title="this is a test blog"></a>this is a test blog</h2><p>try to add an img:</p>
-<p><img src="/./../../themes/butterfly/source/img/bg3.jpg" alt="bg3"></p>
+    <content><![CDATA[<h2 id="this-is-a-test-blog"><a href="#this-is-a-test-blog" class="headerlink" title="this is a test blog"></a>this is a test blog</h2><p><img src="/test/bg3.jpg" alt="bg3"></p>
+<p>try to add an img:</p>
 <p>try to add a script:</p>
 <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&lt;incldu。H》</span><br><span class="line">lnt man（）</span><br><span class="line">&#123;</span><br><span class="line">println(”hellow，word“）：</span><br><span class="line">		retuen: 0,</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
 
